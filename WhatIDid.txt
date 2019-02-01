@@ -1,0 +1,5 @@
+Ik heb de audio mixer toegevoegd zodat het volume met sliders omlaag of omhoog kan.
+
+Ik heb UI sprites get implmenteerd
+
+Ik heb het pauze menu, het options menu en de credits scene in elkaar geflanst. :D
